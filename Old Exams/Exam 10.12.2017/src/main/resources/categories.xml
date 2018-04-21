@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+    <category>
+        <name>Chicken</name>
+        <most-popular-item>
+            <name>Chicken Tenders</name>
+            <total-made>44.0</total-made>
+            <times-sold>11</times-sold>
+        </most-popular-item>
+    </category>
+    <category>
+        <name>Toys</name>
+        <most-popular-item>
+            <name>Minion</name>
+            <total-made>24.200000000000003</total-made>
+            <times-sold>11</times-sold>
+        </most-popular-item>
+    </category>
+    <category>
+        <name>Drinks</name>
+        <most-popular-item>
+            <name>Purple Drink</name>
+            <total-made>9.1</total-made>
+            <times-sold>7</times-sold>
+        </most-popular-item>
+    </category>
+</categories>

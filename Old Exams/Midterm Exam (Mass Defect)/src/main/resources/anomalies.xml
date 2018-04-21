@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<anomalies>
+    <anomaly origin-homePlanet="Voyager-10" teleport-homePlanet="Kepler-1"/>
+    <anomaly origin-homePlanet="Alpha-N20" teleport-homePlanet="Kepler-3"/>
+    <anomaly origin-homePlanet="Kepler-6" teleport-homePlanet="Kepler-1"/>
+    <anomaly origin-homePlanet="Kepler-3" teleport-homePlanet="Kepler-6"/>
+    <anomaly origin-homePlanet="Indigo-3" teleport-homePlanet="Voyager-10"/>
+    <anomaly origin-homePlanet="Indigo-3" teleport-homePlanet="Alpha-N20"/>
+    <anomaly origin-homePlanet="Indigo-3" teleport-homePlanet="Voyager-10"/>
+    <anomaly origin-homePlanet="Kepler-3" teleport-homePlanet="Kepler-1"/>
+    <anomaly origin-homePlanet="Voyager-11" teleport-homePlanet="Alpha-N20"/>
+    <anomaly origin-homePlanet="Kepler-3" teleport-homePlanet="Kepler-6"/>
+    <anomaly origin-homePlanet="Alpha-N20" teleport-homePlanet="Indigo-3"/>
+    <anomaly origin-homePlanet="Alpha-N20" teleport-homePlanet="Kepler-3"/>
+    <anomaly origin-homePlanet="Alpha-N20" teleport-homePlanet="Indigo-3"/>
+    <anomaly origin-homePlanet="Kepler-1" teleport-homePlanet="Alpha-N20"/>
+    <anomaly origin-homePlanet="Alpha-N20" teleport-homePlanet="Kepler-1"/>
+    <anomaly origin-homePlanet="Kepler-3" teleport-homePlanet="Voyager-10"/>
+    <anomaly origin-homePlanet="Kepler-6" teleport-homePlanet="Alpha-N20"/>
+    <anomaly origin-homePlanet="Indigo-3" teleport-homePlanet="Kepler-1"/>
+    <anomaly origin-homePlanet="Voyager-11" teleport-homePlanet="Indigo-3"/>
+    <anomaly origin-homePlanet="Voyager-10" teleport-homePlanet="Voyager-11"/>
+</anomalies>
