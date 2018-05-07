@@ -6,15 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="06. DB-Advanced-Introduction-to-Hibernate-Skeleton" />
-        <module name="HibernateHW" />
-        <module name="Skeleton" />
+        <module name="JDBA_Exam_Test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="06. DB-Advanced-Introduction-to-Hibernate-Skeleton" target="1.8" />
-      <module name="HibernateHW" target="1.8" />
-      <module name="Skeleton" target="1.8" />
+      <module name="JDBA_Exam_Test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
